@@ -28,7 +28,7 @@ import com.amazonaws.regions.Regions;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;
 
-import java.io.File;
+import java.io.FileInputStream;
 import java.nio.file.Paths;
 
 /**
